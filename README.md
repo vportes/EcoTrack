@@ -13,5 +13,10 @@ Para instalar o EcoTrack, siga estas etapas:
 
 Clone o repositório:
 
- ```bash
+```bash
    git clone https://github.com/vportes/EcoTrack.git
+```
+
+## Wiki
+
+[Acesse nossa wiki](https://github.com/vportes/EcoTrack/wiki). Lá você pode encontrar várias informações sobre o projeto, como documentação de uso, nosso objetivo e outras informações.
